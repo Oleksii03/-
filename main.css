@@ -1,16 +1,16 @@
 html,
 body {
-  height: 100vh;
+  height: 100dvh;
 }
 
 .base__wprapper {
-  height: 100vh;
+  height: 100dvh;
   display: grid;
   /* grid-template-columns: 20% 1fr; */
 }
 
 .wrapper {
-  height: 100vh;
+  height: 100dvh;
   display: flex;
   flex-direction: column;
   overflow: hidden;
