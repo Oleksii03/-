@@ -23,7 +23,7 @@ body {
 }
 
 .main {
-  flex: 1 1 auto;
+  flex: 1 1;
   background-color: rgb(99, 16, 216);
   padding: 20px 0px;
   overflow-y: auto;
